@@ -2,7 +2,7 @@
 
 ⬅️⬅️⬅️ yes that is me in a race car - one that I helped build in Uni!
 
-I quit my job in may to make project I believe should exist.
+I quit my job in May to make products I believe should exist.
 
 I am always interested to work on interesting projects - please [message me on twitter](www.twitter.com/AlexCharlesGoff)
 
