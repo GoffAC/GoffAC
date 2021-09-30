@@ -1,16 +1,14 @@
+## Hey, I'm Alex 👋
 
-### Hey, I'm Alex 👋
+I quit my job in may to make project I believe should exist. Always interested to work on interesting projects - please [message me on twitter](www.twitter.com/AlexCharlesGoff)
 
-I quit my job in may to make project I believe should exist. 
+## I am working on:
 
-- 🌳 [www.treemeals.co](treemeals.co) - A carbon counting food diary (did you know orange juice is worse than bacon?!)
-![Treemeals UI components](./images/treemealsHero.png)
+- 🌳 [treemeals.co](www.treemeals.co) - A carbon counting food diary (did you know orange juice is worse than bacon?!)
+  ![Treemeals UI components](./images/treemealsHero.png)
 
-- 🏡 [www.compairbnb.info/hello](compairbnb.info) - the easiest way to narrow down which airbnb you want to stay in
-![Compairbnb UI](./images/compairbnbHero.png)
+- 🏡 [compairbnb.info](www.compairbnb.info/hello) - the easiest way to narrow down which airbnb you want to stay in
+  ![Compairbnb UI](./images/compairbnbHero.png)
 
-- ⏳ [www.everyhour.xyz](everyhour.xyz) - My way of staying productive - by tracking my life balance. 
-![everyhour app UI Image](./images/everyhourHero.png)
-
-
-
+- ⏳ [everyhour.xyz](www.everyhour.xyz) - My way of staying productive - by tracking my life balance.
+  ![everyhour app UI Image](./images/everyhourHero.png)
