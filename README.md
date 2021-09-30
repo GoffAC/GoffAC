@@ -1,6 +1,8 @@
 ## Hey, I'm Alex 👋
 
-I quit my job in may to make project I believe should exist. Always interested to work on interesting projects - please [message me on twitter](www.twitter.com/AlexCharlesGoff)
+I quit my job in may to make project I believe should exist.
+
+I am always interested to work on interesting projects - please [message me on twitter](www.twitter.com/AlexCharlesGoff)
 
 ## I am working on:
 
