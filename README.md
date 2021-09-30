@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**GoffAC/GoffAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Alex 👋
 
-Here are some ideas to get you started:
+I quit my job in may to make project I believe should exist. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌳 [www.treemeals.co](treemeals.co) - A carbon counting food diary (did you know orange juice is worse than bacon?!)
+
+- 🏡 [www.compairbnb.info/hello](compairbnb.info) - the easiest way to narrow down which airbnb you want to stay in
+
+- ⏳ [www.everyhour.xyz](everyhour.xyz) - My way of staying productive - by tracking my life balance. 
+
+
+
