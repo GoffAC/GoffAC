@@ -1,6 +1,6 @@
 ## Hey, I'm Alex 👋
 
-⬅️⬅️⬅️ yes that is me in a race car - one that I helped build in Uni!
+⬅️⬅️⬅️ yes that is me in a race car - one that I made in Uni!
 
 I quit my job in May to make products I believe should exist.
 
