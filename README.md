@@ -2,7 +2,7 @@
 
 I am building [vula](https://www.vula.vc) to empower a continent to be the future of us all. 
 
-I quit my job in May 21  to make products I believe should exist. Since then I have built 30 products, 2 turned to businesses and 1 (vula) has been venture backed.
+I quit my job in May 2021  to make products I believe should exist. Since then I have built 30 products, 2 turned to businesses and 1 (vula) has been venture backed.
 
 To hear more from me, [message me on twitter](www.twitter.com/AlexCharlesGoff)
 
